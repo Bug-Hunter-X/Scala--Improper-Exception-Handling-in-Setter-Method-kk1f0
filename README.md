@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Scala code involving exception handling. The `MyClass` example showcases a setter method (`age_=`) that throws an `IllegalArgumentException` if a negative age is assigned.  The `Main` object illustrates how this exception is thrown.  A solution is provided that demonstrates a more robust approach to handling potential errors.
